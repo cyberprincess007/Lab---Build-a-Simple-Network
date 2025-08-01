@@ -1,4 +1,4 @@
-# Lab---Build-a-Simple-# Lab - Build a Simple Network
+# Lab - Build a Simple Network
 
 ## Objective
 Set up a basic Ethernet network using two PCs and a wireless router, configure static IP addresses, and verify connectivity using ping. In this lab, I set up a basic Ethernet network using two PCs and a wireless router. I connected each PC to the router with Ethernet cables, assigned them static IP addresses, and confirmed they could communicate by using the ping command. I also learned how to check network settings and troubleshoot issues like firewall blocking.
