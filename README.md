@@ -51,3 +51,9 @@ If pings are unsuccessful, check for:
 - Firewall blocking ICMP requests
 In this lab, I set up a basic Ethernet network using two PCs and a wireless router. I connected each PC to the router with Ethernet cables, assigned them static IP addresses, and confirmed they could communicate by using the ping command. I also learned how to check network settings and troubleshoot issues like firewall blocking.
 
+<img width="1167" height="659" alt="image" src="https://github.com/user-attachments/assets/e952e4cd-abc7-4204-a7a5-4401b6a93b2a" />
+
+<img width="1171" height="673" alt="image" src="https://github.com/user-attachments/assets/54bc70a9-78c5-4348-a8d1-79c711ae0b06" />
+
+
+
